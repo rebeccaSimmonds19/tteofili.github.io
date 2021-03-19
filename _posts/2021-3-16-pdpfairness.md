@@ -7,8 +7,8 @@ A "good" _model_ is expected to treat different groups of people the same way; t
 (e.g. grant a loan to a person) would rather not be influenced by sensitive features like _race_, _gender_, _religion_, etc.
 
 On the other hand several studies have witnessed that this is often not the case.
-A very well known example of such an unfair model is the one used by COMPAS, an system often used in the U.S. to determine how likely 
-a given person is to be a repetead offender. A study on the COMPAS system revelead a highly discriminative behavior, in fact black people was
+A very well known example of such an unfair model is the one used by COMPAS, a system often used in the U.S. to determine how likely 
+a given person is to be a repetead offender. A study on the COMPAS system revelead a highly discriminative behavior, in fact black people were
 wrongly reported to be much more likely to commit a crime again with respect to white people defendants.
 
 In this post we use _Partial Dependence Plots_ to visualize potential fairness concerns in a machine learning model.
